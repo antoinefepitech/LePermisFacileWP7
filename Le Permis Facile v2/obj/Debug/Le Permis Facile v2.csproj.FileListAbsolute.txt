@@ -1,0 +1,43 @@
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\ApplicationIcon.png
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\Background.png
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\DATA.xml
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\Le Permis Facile v2.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\Le Permis Facile v2.pdb
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\AppManifest.xaml
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\Le Permis Facile v2_Debug_AnyCPU.xap
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\microsoft.advertising.mobile.ui.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\microsoft.advertising.mobile.ui.xml
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\obj\Debug\App.g.cs
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\obj\Debug\MainPage.g.cs
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\obj\Debug\Le Permis Facile v2.g.resources
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\obj\Debug\Le Permis Facile v2.dll
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\obj\Debug\Le Permis Facile v2.pdb
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\obj\Debug\XapCacheFile.xml
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\obj\Debug\Le Permis Facile v2.csprojResolveAssemblyReference.cache
+C:\Users\Antoine Falais\Documents\Visual Studio 2012\Projects\LePermisFacile25052013\LePermisFacile\Le Permis Facile v2\Bin\Debug\resetDATA.xml

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="fr" />
+  <Languages xmlns="">
+    <Language code="fr-FR" />
+  </Languages>
+  <App xmlns="" ProductID="{192e916f-5ee5-4bd4-a319-39f56e063c22}" Title="Le Permis Facile" RuntimeType="Silverlight" Version="2.0.2.0" Genre="apps.normal" Author="CyberSoftCreation" Description="Aucune question n'est évoqué dans le permis facile.&#xD;&#xA;BayBay les feuilles bonjour le smartphone désormais  avec Le Permis Facile, vous faites vos tests depuis votre Windows Phone, tous vos tests sont memorisés !" Publisher="Le Permis Facile" PublisherID="{9a9b212c-5eb5-4d93-8a21-c707fd015a03}">
+    <IconPath IsRelative="true" IsResource="false">logo.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="LePermisFacileToken" TaskName="_default">
+        <TemplateFlip>
+          <SmallImageURI IsRelative="true" IsResource="false">logo.png</SmallImageURI>
+          <Count>0</Count>
+          <BackgroundImageURI IsRelative="true" IsResource="false">logo.png</BackgroundImageURI>
+          <Title>Le permis Facile</Title>
+          <BackContent>
+          </BackContent>
+          <BackBackgroundImageURI IsRelative="true" IsResource="false">
+          </BackBackgroundImageURI>
+          <BackTitle>
+          </BackTitle>
+          <DeviceLockImageURI IsRelative="true" IsResource="false">
+          </DeviceLockImageURI>
+          <HasLarge>false</HasLarge>
+        </TemplateFlip>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>

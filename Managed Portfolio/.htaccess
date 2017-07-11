@@ -1,0 +1,12 @@
+#ErrorDocument 404 http://localhost/antoinefalais/
+
+Options +FollowSymlinks
+RewriteEngine On
+
+RewriteRule ^(website)/+$ /website/$1
+RewriteRule ^(demo)+$ /demo$1
+RewriteRule ^([a-zA-Z]+)$  index.php?c=$1
+RewriteRule ^([a-zA-Z]+)/([a-zA-Z]+)$   index.php?c=$1&a=$2
+RewriteRule ^([a-zA-Z]+)$   index.php?c=$1
+RewriteRule ^([a-zA-Z]+)/([a-zA-Z]+)/([a-zA-Z0-9]+)$   index.php?c=$1&a=$2&p=$3
+RewriteRule ^([a-zA-Z]+)/([a-zA-Z]+)/([a-zA-Z0-9]+)/([a-zA-Z0-9]+)$   index.php?c=$1&a=$2&p=$3&p2=$4    
